@@ -2,7 +2,7 @@
 name: Verifoxx CHERI-WAMR (cWAMR)
 description: A CHERI-capability-aware fork of WebAssembly Micro Runtime (WAMR), enabling secure, fine-grained compartmentalization of WASM modules on CHERI-enabled platforms.
 keywords: WebAssembly CHERI WAMR security compartments Morello Verifoxx DSbD PETs runtime capability-based
-logo_url: https://raw.githubusercontent.com/Verifoxx-LTD/verifoxx-cheri-wamr/main/assets/logo.png
+logo_url: https://github.com/Verifoxx-LTD/verifoxx-cheri-wamr/blob/main/assets/logo_vf.png
 website: https://www.verifoxx.com/research
 source_url: https://github.com/Verifoxx-LTD/verifoxx-cheri-wamr
 ---
